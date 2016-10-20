@@ -1,0 +1,14 @@
+{
+  "name":"ChatRoom",
+  "description":"chatroom",
+  "version": "0.0.1",
+  "main":"express_server.js",
+  "dependencies": {
+    "express": "4.x",
+    "socket.io":"1.5.x"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  }
+}
